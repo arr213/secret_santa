@@ -46,3 +46,7 @@ If the script cannot find a valid assignment after 1,000 attempts, it will outpu
 ## Notes
 - The script's effectiveness depends on the group size and the constraints specified. In some cases, the constraints may be too strict to allow a valid assignment.
 - This script is for entertainment purposes and should be used responsibly.
+
+## Potential Future Upgrades
+- Auto-send emails
+- Web Interface
